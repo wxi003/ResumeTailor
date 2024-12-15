@@ -1,4 +1,4 @@
-<h2>FitMyResume: Tailored Resume & Cover Letter Customization for Job Seekers</h2>
+<h2>ResumeTailor: Tailored Resume Customization for Job Seekers</h2>
 In today’s competitive job market, standing out with a well-tailored resume and cover letter is essential. ResumeFit is an online web application designed to help job seekers, especially new graduates, streamline the process of customizing resumes to specific job descriptions. By optimizing resumes for Applicant Tracking Systems (ATS) and aligning them with job requirements, ResumeFit increases the chances of landing interviews and reduces the time spent tailoring applications.
 
 
